@@ -9,3 +9,6 @@
   iv. acceptMessageSchema
   v. MessageSchema
   
+
+3. Zod --> Zod is typeScript -first schema validation used in above schemas.Helps us to     manage the manual validation done on frontend.Make it easy,effiecient and convinent.  
+## Why go to mongdb Database to check i will check first it on frontend.
