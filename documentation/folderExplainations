@@ -1,0 +1,11 @@
+# Inside src folder
+
+1. Models --> Used to store all the database model along with their interface for typesafety.
+
+2. Schema --> Used to store ZOD schemas for validating the input format for each request sent to Backend.Not for mongoose but for frontend.
+  i.SIGNUP SCHEMA
+  ii. Login Schema
+  iii. verifySchema -->code should be of 6 digit
+  iv. acceptMessageSchema
+  v. MessageSchema
+  
