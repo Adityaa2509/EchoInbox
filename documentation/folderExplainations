@@ -18,4 +18,10 @@
 Database in Next.js do not run all time continue ,it runs on user demand on edge.
 In nEXTJS APP,first check if connection is aklready there else db connection request is too much that it gets choked.
 
-4. Lib FOLDER Contains tasks such as dbConnect,shadcn for lib
+4. Lib FOLDER Contains tasks such as dbConnect,shadcn for lib,resend configuration such as setting setup and adding api key.
+
+5. Types --> to Standardize the API response.
+
+6. helpers --> contains sendVerificationEMAIL controller
+
+7. emails --> contains template for all the emails to be send to user
