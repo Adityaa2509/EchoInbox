@@ -12,3 +12,10 @@
 
 3. Zod --> Zod is typeScript -first schema validation used in above schemas.Helps us to     manage the manual validation done on frontend.Make it easy,effiecient and convinent.  
 ## Why go to mongdb Database to check i will check first it on frontend.
+
+
+## Database connection
+Database in Next.js do not run all time continue ,it runs on user demand on edge.
+In nEXTJS APP,first check if connection is aklready there else db connection request is too much that it gets choked.
+
+4. Lib FOLDER Contains tasks such as dbConnect,shadcn for lib
